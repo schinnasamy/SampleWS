@@ -1,0 +1,2 @@
+# SampleWS
+Sample WS - JAXWS
